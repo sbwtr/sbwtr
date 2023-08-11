@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbwtr
 - 👀 I’m interested in art
-- 🌱 I’m currently learning pygame
+- 🌱 I’m currently learning pygame/touchdesigner
 - 💞️ would like to collaborate on antishooting games making
 - 📫 email me
 
